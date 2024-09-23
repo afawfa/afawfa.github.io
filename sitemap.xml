@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://afawfa.github.io/2024/09/18/%E8%B6%85%E5%BC%BA%E7%9A%84%E6%90%9C%E5%9B%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%89%BE%E8%96%87/</loc>
+    
+    <lastmod>2024-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://afawfa.github.io/2024/08/15/cq-picsearch-bot%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/</loc>
     
     <lastmod>2024-08-15</lastmod>
@@ -22,7 +31,7 @@
 
   <url>
     <loc>https://afawfa.github.io/</loc>
-    <lastmod>2024-08-15</lastmod>
+    <lastmod>2024-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,7 +39,7 @@
   
   <url>
     <loc>https://afawfa.github.io/tags/cq-picsearch-bot-%E6%90%9C%E5%9B%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E4%BA%8C%E6%AC%A1%E5%85%83%E6%90%9C%E5%9B%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E6%90%9C%E5%9B%BE%EF%BC%8Clinux%EF%BC%8CUbuntu%EF%BC%8Ccentos%EF%BC%8Cbot%EF%BC%8Cqq%EF%BC%8Cftp/</loc>
-    <lastmod>2024-08-15</lastmod>
+    <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
