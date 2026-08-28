@@ -785,27 +785,6 @@
   </url>
   
   <url>
-    <loc>https://miiiku.com/tags/Stable-Diffusion/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://miiiku.com/tags/artificial-intelligence/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://miiiku.com/tags/ebsynth/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://miiiku.com/tags/QQ/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -827,21 +806,21 @@
   </url>
   
   <url>
-    <loc>https://miiiku.com/tags/cq-picsearch-bot/</loc>
+    <loc>https://miiiku.com/tags/Stable-Diffusion/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://miiiku.com/tags/robot/</loc>
+    <loc>https://miiiku.com/tags/artificial-intelligence/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://miiiku.com/tags/anime/</loc>
+    <loc>https://miiiku.com/tags/ebsynth/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -863,6 +842,27 @@
   
   <url>
     <loc>https://miiiku.com/tags/telegram/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://miiiku.com/tags/cq-picsearch-bot/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://miiiku.com/tags/robot/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://miiiku.com/tags/anime/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -953,13 +953,6 @@
   </url>
   
   <url>
-    <loc>https://miiiku.com/tags/sink/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://miiiku.com/tags/qq/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -1030,6 +1023,27 @@
   </url>
   
   <url>
+    <loc>https://miiiku.com/tags/sink/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://miiiku.com/tags/log/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://miiiku.com/tags/mysql/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://miiiku.com/tags/hosts/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -1045,20 +1059,6 @@
   
   <url>
     <loc>https://miiiku.com/tags/maintenance/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://miiiku.com/tags/log/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://miiiku.com/tags/mysql/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1207,14 +1207,14 @@
   </url>
   
   <url>
-    <loc>https://miiiku.com/categories/robot/</loc>
+    <loc>https://miiiku.com/categories/cloudflare/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://miiiku.com/categories/cloudflare/</loc>
+    <loc>https://miiiku.com/categories/robot/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
